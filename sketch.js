@@ -7,7 +7,7 @@ var feed= 0.0354;
 var k= 0.0628;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(200, 200);
   pixelDensity(1);
   grid=[];
   next=[];
@@ -21,8 +21,8 @@ function setup() {
     }
   }
   
-  for (var i=100; i<110; i++){
-    for (var j=100; j<110; j++){
+  for (var i=50; i<60; i++){
+    for (var j=50; j<60; j++){
       grid[i][j].b=1;
     }
   }
