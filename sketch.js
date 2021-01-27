@@ -9,7 +9,6 @@ var k= 0.0628;
 function setup() {
   createCanvas(400, 400);
   pixelDensity(1);
- rectMode(CENTRE);
   grid=[];
   next=[];
   
