@@ -6,4 +6,4 @@ _________________________________________________________
 Link: https://anaghaachakrapani.github.io/Reaction-diffusion/
 ____________________________________________________________
 
-Checkout my work on : anaghaa.com
+Checkout my work on : https://anaghaa.com
